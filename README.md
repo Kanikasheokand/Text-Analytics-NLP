@@ -11,6 +11,7 @@ While extracting text, please make sure your program extracts only the article t
 **1**.**Web Scrapping**
 
 **2**.**Text Mining**
+
 -Removing Punctuations and other special characters
 
 -Word Tokenzation
